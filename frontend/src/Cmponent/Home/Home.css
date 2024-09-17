@@ -1,0 +1,15 @@
+.box {
+  
+    width: 23rem;
+    height: 4rem;
+    margin-left: 2.5rem;
+    background-color: #4C516D;
+    color: white;
+    text-align: center;
+    font-size: 2.5rem;
+
+
+    
+    
+     /* Ensure the div has some height */
+}
