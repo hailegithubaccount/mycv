@@ -8,6 +8,10 @@ function Home() {
       <div className='box'>
         Contact
       </div>
+      <ul>
+        <li></li>
+        <li></li>
+      </ul>
     </div>
   );
 }
