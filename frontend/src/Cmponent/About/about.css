@@ -7,3 +7,18 @@
     text-align: center;
     font-size: 2.5rem;
 }
+.para{
+    margin-top: 1rem;
+    margin-left:2rem ;
+    margin-right: 16px;
+    margin-bottom: 1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    line-height: 25px;
+}
+.k{
+    font-size:15px;
+    font-weight:500;
+    
+
+}

@@ -13,3 +13,27 @@
     
      /* Ensure the div has some height */
 }
+.cont {
+    list-style: none;
+}
+.line{
+    border: 1px solid white;
+    background-color: blue;
+    width:4px;
+    height: 20px;
+    margin-left: 3rem;
+    margin-top: 1rem;
+}
+.linewithword{
+    display: flex;
+    gap:7px;
+}
+.word{
+    margin-top: 1rem;
+}
+.k{
+    font-size: 15px;
+    font-weight: 500;
+    
+
+}
