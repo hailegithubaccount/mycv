@@ -1,39 +1,15 @@
+import React from 'react'
+import Navbar from './Component/Navbar'
+import Hero from './Component/Hero'
 
-import './App.css';
-
-import Home from './Cmponent/Home/Home';
-import About from './Cmponent/About/About';
-import Banner from './Cmponent/Banner';
-import Image from './Cmponent/Image';
-
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <div className='image'>
-         <Image/>
-      </div>
-      <div className='banner'>
-        <Banner/>
-      </div>
-
-      <div className='flex'>
-        
-      <div className='home'>
-        <Home/>
-      </div>
-        
-
-      <div className="about">
-        <About/>
-      </div>
-      </div>
-
-
-
-
-     
+    <div>
+      <Navbar/>
+      <Hero/>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
+
